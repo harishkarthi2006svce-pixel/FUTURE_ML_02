@@ -1,0 +1,28 @@
+ticket_text,category
+Payment failed while checkout,Billing
+Unable to login to account,Account
+Refund not received,Billing
+App crashes on startup,Technical
+Password reset not working,Account
+Internet connection issue,Technical
+Charged twice for order,Billing
+Cannot update profile,Account
+Software freezes frequently,Technical
+Billing invoice incorrect,Billing
+Account locked after login attempt,Account
+Application not responding,Technical
+Payment deducted but order not placed,Billing
+Need invoice copy,Billing
+Refund taking too long,Billing
+Cannot change email address,Account
+Account hacked,Account
+Unable to sign in,Account
+System error while opening app,Technical
+App lagging frequently,Technical
+Unable to upload files,Technical
+Payment gateway timeout,Billing
+Transaction unsuccessful,Billing
+Password change failed,Account
+Login verification failed,Account
+Software crashes randomly,Technical
+Network issue during update,Technical
